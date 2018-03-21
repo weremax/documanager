@@ -1,0 +1,23 @@
+button {
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: 15px;
+    width: 150px;
+    height: 35px;
+}
+
+.activeButton {
+    background-color: palegreen;
+}
+
+.inactiveButton {
+    background-color: lightcoral;
+}
+
+.inprogressButton {
+    background-color: lightblue;
+}
+
+.unknownButton {
+    background-color: #fff;
+}

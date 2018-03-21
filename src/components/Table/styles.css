@@ -1,0 +1,23 @@
+.Table {
+    display: table;
+    width: 70%;
+    margin: 0 auto;
+    margin-top: 15px;
+}
+
+.TableRow {
+    display: table-row;
+}
+
+.TableHead {
+    display: table-cell;
+    padding: 5px 10px;
+    border: 1px solid #999999;
+    font-weight: bold;
+}
+
+.TableCell {
+    display: table-cell;
+    padding: 5px 10px;
+    border-bottom: 1px solid #999999;
+}
